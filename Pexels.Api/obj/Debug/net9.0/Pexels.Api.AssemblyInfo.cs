@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pexels.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+608d8745232e91d86e120abf0c14715293a88c97")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b76738eab682ec992e74a8a366018ed2bca83a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pexels.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pexels.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
