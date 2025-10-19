@@ -1,0 +1,6 @@
+@Pexels.Api_HostAddress = http://localhost:5015
+
+GET {{Pexels.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
